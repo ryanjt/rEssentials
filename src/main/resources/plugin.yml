@@ -3,3 +3,15 @@ version: 1.0
 author: ryanjt
 main: io.github.ryanjt.rEssentials
 api-version: 1.16
+commands:
+  heal:
+    description: Heals player to max health.
+    usage: /<command>
+    aliases: healme
+  feed:
+    description: Feeds player to max food.
+    usage: /<command>
+    aliases: feedme
+  helpme:
+    description: Help me (for Erin).
+    usage: /<command>
