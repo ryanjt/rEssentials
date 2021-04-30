@@ -8,6 +8,7 @@ A minecraft essentials plugin for Spigot. Made for a vanilla / give a small help
 - /feed - feed's player to max food on command.
 - /heal - heals player to max health on command.
 - /helpme - creates a teleport stick which teleports user to home (hard-coded location at the moment for personal server). 
+- /tools - gives player basic stone tools with 30 torches.
 
 # Plans / Todo
 - Implement a config file to save location dynamically for help me wand. 

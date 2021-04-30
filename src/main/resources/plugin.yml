@@ -15,3 +15,6 @@ commands:
   helpme:
     description: Help me (for Erin).
     usage: /<command>
+  tools:
+    description: Stone tools with a few torches.
+    usage: /<command>
